@@ -1,0 +1,41 @@
+[
+  {
+    "groupId": "4d812978-d493-4e59-84ca-5253723c363b",
+    "groupName": "BASE_FILA_VOZ",
+    "queues": [
+      { "id": "947337b9-17e8-4a97-9393-66d1426b0e3f", "name": "VOZ_SEPHORA" }
+    ]
+  },
+   {
+    "groupId": "0f0534b5-7519-48e4-ba35-e8ac072ee727",
+    "groupName": "BASE_FILA_CHAT (WHATSAPP & WHATSAPP_NEW)",
+    "queues": [
+      { "id": "d222ee36-368a-427a-964d-2a946a8eac5b", "name": "WHATSAPP_SEPHORA" },
+      { "id": "4672f279-23dc-41a2-a41a-d8675254f1e2", "name": "WHATSAPP_SEPHORA_NEW" }
+    ]
+  },
+  {
+    "groupId": "cc4e5c39-9760-4995-943b-2874af8ba4c2",
+    "groupName": "BASE_FILA_E-MAIL_DEVOLUÇÃO",
+    "queues": [
+      { "id": "2e99f2fb-2f95-4ba4-ae3d-b0bac97e838f", "name": "EMAIL_DEVOLUCAO" }
+    ]
+  },
+  {
+    "groupId": "b98b6d14-3a5f-4bd4-a1af-9d9c09372c78",
+    "groupName": "BASE_FILA_BACKOFFICE",
+    "queues": [
+      { "id": "eebddbe5-bdbb-4c19-8654-7a470cefd6c9", "name": "BKO" },
+      { "id": "dae4836d-59d2-4985-8bd0-1d52380e0dd0", "name": "ATIVO_SEPHORA_N2" },
+      { "id": "bb498621-3ebc-4ff3-a3eb-c19363dde7db", "name": "EMAIL_BKO_N2" }
+    ]
+  },
+  {
+    "groupId": "82d3f937-e764-4d0d-b32b-8a2cee845a46",
+    "groupName": "BASE_FILA_RECLAME_AQUI_SEPHORA",
+    "queues": [
+      { "id": "dae4836d-59d2-4985-8bd0-1d52380e0dd0", "name": "ATIVO_SEPHORA_N2" },
+      { "id": "14d68a5d-5e6d-4849-be95-f6947969e580", "name": "RECLAME_AQUI_SEPHORA"}
+    ]
+  } 
+]

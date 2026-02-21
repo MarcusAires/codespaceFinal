@@ -1,0 +1,25 @@
+{
+  "name": "automationgenesys",
+  "version": "1.0.0",
+  "main": "n",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "make": "electron-forge make"
+  },
+  "pkg": {
+  "assets": [".env"]
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "purecloud-platform-client-v2": "^245.1.0",
+    "type": "module"
+  },
+  
+  "devDependencies": {}
+}

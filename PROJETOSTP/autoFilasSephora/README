@@ -1,0 +1,9 @@
+O script a ser executado para resetar a utilização dos usuários no genesys é o arquivo de nome resetUtilization.js
+
+para consegui executar o arquivo é necessário baixar uma cópia da pasta do repositório
+acessar a pasta do repositório pelo terminal e instalar as dependencias 
+após a instalação das dependencias é só rodar o comando: 
+
+node resetUtilization.js
+
+os dados criticos estão gu

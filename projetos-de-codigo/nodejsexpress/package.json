@@ -1,0 +1,9 @@
+{
+  "name": "temperatura",
+  "version": "1.0.0",
+  "description": "recuperar as condições climáticas atuais nos Estados Unidos",
+  "main": "app.js",
+  "dependencies": {
+    "express": "4.x"
+  }
+}
